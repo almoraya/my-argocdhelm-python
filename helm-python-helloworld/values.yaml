@@ -1,5 +1,5 @@
 namespace:
-  name: dev
+  name: argocd
  
 image:
   repository: dalmaraya/python-helloworld 
