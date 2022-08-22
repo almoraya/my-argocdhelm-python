@@ -1,5 +1,5 @@
 namespace:
-  name: test
+  name: dev
  
 image:
   repository: dalmaraya/python-helloworld 
